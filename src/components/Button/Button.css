@@ -1,0 +1,16 @@
+button{
+    padding: 10px;
+    background-color: black;
+    border-radius: 5px;
+    border-color: transparent;
+}
+#btn{
+    background-color: gray;
+    height:40px;
+  width:120px;
+  border-width:0px;
+  background-color:rgb(57, 57, 244);
+  color:white;
+  font-weight: 500;
+  border-radius:3px;
+}
